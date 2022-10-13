@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Snap those tabs",
+  "description": "Do yourself a favor and close all your tabs.",
+  "version": "1.0",
+  "icons": {
+    "16": "images/snap-16.png",
+    "48": "images/snap-48.png",
+    "128": "images/snap-128.png"
+  },
+  "options_page": "options.html",
+  "host_permissions": ["https://developer.chrome.com/*"],
+  "action": {
+    "default_icon": "images/snap-16.png"
+  },
+  "permissions": ["activeTab", "scripting", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

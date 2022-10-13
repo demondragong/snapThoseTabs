@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" class="pocket-theme-dark">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Options - Snap those tabs</title>
+    <style>
+      html {
+        max-width: 70ch;
+        padding: 3em 1em;
+        margin: auto;
+        line-height: 1.75;
+        font-size: 1.25em;
+      }
+      .options {
+        display: flex;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Snap those tabs - extension settings</h1>
+    <div class="options">
+      <label>
+        <input type="checkbox" id="closeInCurrentWindowOnlySetting" checked />
+        Only close the tabs in the window where the button is clicked
+      </label>
+      <label>
+        <input type="checkbox" id="closePinnedTabsSetting" />
+        Close pinned tabs too
+      </label>
+      <label>
+        <input type="checkbox" id="openEmptyTabSetting" />
+        Open a fresh new tab after closing the old ones
+      </label>
+    </div>
+    <button id="save">Save</button>
+    <div id="status"> </div>
+
+    <script src="options.js"></script>
+  </body>
+</html>
