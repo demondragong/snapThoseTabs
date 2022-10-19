@@ -9,7 +9,6 @@
     "128": "images/snap-128.png"
   },
   "options_page": "options.html",
-  "host_permissions": ["https://developer.chrome.com/*"],
   "action": {
     "default_icon": "images/snap-16.png"
   },
