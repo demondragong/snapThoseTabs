@@ -12,7 +12,7 @@
   "action": {
     "default_icon": "images/snap-16.png"
   },
-  "permissions": ["activeTab", "scripting", "storage"],
+  "permissions": ["storage"],
   "background": {
     "service_worker": "background.js"
   }
