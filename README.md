@@ -25,7 +25,7 @@ Let’s start fresh with a new browser window.
 Hmmmm that feels good! 💆
 
 
-[End of this beautiful story]
+[End of flashback]
 
 
 ___
@@ -58,7 +58,7 @@ I thought so…
 2. Start sorting all your tabs one by one and take a trip down memory lane remembering the ambitions of your former self when you opened this tab earlier today and that other one a week ago, oh and this one about buying bitcoin in 2019... →  ❌ NO! Skip this step. ❌
 3. Close ALL the tabs.
 
-This is where Snap those tabs™️ comes in. It’s the best at closing tabs!
+This is where Snap those tabs™️ comes in. It allows you to close your tabs before the FOMO kicks in. No time to change your mind!
 
 Whether you’re on the verge of a mental breakdown or just because you’re fed up with your computer sounding like it’s about to take off, save yourself with 1 click.
 
